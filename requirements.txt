@@ -1,0 +1,12 @@
+
+### `requirements.txt`
+This file lists the Python packages required for running the project:
+```txt
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+jupyter
+gir
