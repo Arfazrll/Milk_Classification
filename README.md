@@ -1,4 +1,4 @@
-# Machine Learning Project: Data Classification and Model Evaluation
+# Data Classification and Model Evaluation
 
 ## Overview
 This project demonstrates the application of machine learning algorithms to solve a classification problem using real-world data. The project is developed by a team of four collaborators: **Asep Jamaludin**, **Syahril Arfian Almazril**, **Ridho Anugrah Mulyadi**, and **Sayyid Faqih**. The project includes key steps such as data preprocessing, model training, evaluation, and addressing data class imbalance using advanced techniques such as **SMOTE (Synthetic Minority Over-sampling Technique)**.
